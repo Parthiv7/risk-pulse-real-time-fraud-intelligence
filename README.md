@@ -8,7 +8,7 @@ The platform simulates credit-card transactions, publishes events to Kafka, proc
 
 ## Architecture
 
-![Risk Pulse Architecture](./docs/images/risk-pulse-architecture.png)
+![Risk Pulse Architecture](.docs/images/RiskPulse_Real_time_fraud_intelligence_platform.png)
 
 The platform follows an event-driven architecture:
 
@@ -45,7 +45,7 @@ Email Alert Sinks
 
 The Databricks pipeline was executed as a streaming workload, processing transaction and risk-watchlist data through the Bronze, Silver, and Gold layers and routing alert outputs to email sinks.
 
-![Risk Pulse Databricks Pipeline](./docs/images/risk-pulse-pipeline.png)
+![Risk Pulse Databricks Pipeline](./docs/images/End-to-End Kafka Streaming.png)
 
 The pipeline graph demonstrates:
 
