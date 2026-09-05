@@ -8,7 +8,7 @@ The platform simulates credit-card transactions, publishes events to Kafka, proc
 
 ## Architecture
 
-![Risk Pulse Architecture](.docs/images/RiskPulse_Real_time_fraud_intelligence_platform.png)
+![Risk Pulse Architecture](docs/images/RiskPulse_Real_time_fraud_intelligence_platform.png)
 
 The platform follows an event-driven architecture:
 
