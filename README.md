@@ -45,7 +45,7 @@ Email Alert Sinks
 
 The Databricks pipeline was executed as a streaming workload, processing transaction and risk-watchlist data through the Bronze, Silver, and Gold layers and routing alert outputs to email sinks.
 
-![Risk Pulse Databricks Pipeline](.docs/images/End-to-End kafka Streaming Snapshot.png)
+![Risk Pulse Databricks Pipeline](docs/images/End-to-End kafka Streaming Snapshot.png)
 
 The pipeline graph demonstrates:
 
